@@ -1,0 +1,33 @@
+📢 Update v0.2.5r
+
+⚠️ Important Notice
+
+📝 About This Update
+
+• Fixed Earthen Clay blocks from Immersive Weathering making a lot of drip/splash sounds when directly over water ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+
+• Fixed some weapons not having correct animations
+
+• Fixed splash particles not rendering with shaders ([Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects))
+
+• Updated [Cold Sweat](https://www.curseforge.com/minecraft/mc-mods/cold-sweat) to [2.4](https://www.curseforge.com/minecraft/mc-mods/cold-sweat/files/7893262) (big update)
+
+• Updated Forge from 47.4.16 to 47.4.18
+
+• Updated [Serene Seasons Plus](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-plus) to [0.5.0.0](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-plus/files/7774663) (big update)
+
+➕ Added
+
+• [Crawl on Demand](https://www.curseforge.com/minecraft/mc-mods/crawl-on-demand)
+
+• [Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris) (should be fixed now)
+
+• [PlayerRevive](https://www.curseforge.com/minecraft/mc-mods/playerrevive)
+
+🗑️ Removed
+
+• [Better BetterX](https://www.curseforge.com/minecraft/texture-packs/better-betterx)
+
+• [Better End Fix](https://www.curseforge.com/minecraft/mc-mods/better-end-fix) (because it got archived)
+
+🔧 Config Changes
